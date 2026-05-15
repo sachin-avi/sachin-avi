@@ -41,7 +41,7 @@ Currently exploring advanced embedded system design using ESP32-based platforms 
 ## Embedded Platforms
 - ESP32
 - Arduino
-- ATmega-based Microcontrollers
+
 
 ## Programming
 - Embedded C
